@@ -1,6 +1,6 @@
 'use strict';
 
-const Game = require('../modules/Game.class');
+const Game = require('../modules/Game.class.js');
 const game = new Game();
 
 const body = document.body;
