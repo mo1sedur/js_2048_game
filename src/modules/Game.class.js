@@ -199,6 +199,7 @@ class Game {
 
     return true;
   }
+  
 
   moveLeft() {
     return this.moveSomeSide('left');
